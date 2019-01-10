@@ -1,3 +1,3 @@
 # DiceApp
-A simple dice app that selects random dice images at random.
+A simple dice app that selects dice images at random.
 Made with the help of udacity
